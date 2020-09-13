@@ -3,13 +3,14 @@
 *.exe~
 *.dll
 *.so
-*.dylib
 
-# Test binary, built with `go test -c`
-*.test
 
-# Output of the go coverage tool, specifically when used with LiteIDE
-*.out
-
-# Dependency directories (remove the comment below to include it)
-# vendor/
+/src/MnroCore/Mnro.Entity/bin/Release/netcoreapp3.1
+/src/MnroCore/Mnro.Entity/bin/Debug/netcoreapp3.1
+/src/MnroCore/Mnro.Interface/bin/Debug/netcoreapp3.1
+/src/MnroCore/Mnro.Interface/bin/Release/netcoreapp3.1
+/src/MnroCore/Mnro.Service/bin/Debug/netcoreapp3.1
+/src/MnroCore/Mnro.Service/bin/Release/netcoreapp3.1
+/src/MnroCore/Mnro.Web.Demo/bin/Debug/netcoreapp3.1
+/src/MnroCore/Mnro.Web.Demo/bin/Release/netcoreapp3.1
+/.vs

@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Web.Demo\\Mnro.Web.Demo.csproj": {}
+  },
+  "projects": {
+    "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Entity\\Mnro.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Entity\\Mnro.Entity.csproj",
+        "projectName": "Mnro.Entity",
+        "projectPath": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Entity\\Mnro.Entity.csproj",
+        "packagesPath": "C:\\Users\\limengxin\\.nuget\\packages\\",
+        "outputPath": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\limengxin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Interface\\Mnro.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Interface\\Mnro.Interface.csproj",
+        "projectName": "Mnro.Interface",
+        "projectPath": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Interface\\Mnro.Interface.csproj",
+        "packagesPath": "C:\\Users\\limengxin\\.nuget\\packages\\",
+        "outputPath": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\limengxin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Entity\\Mnro.Entity.csproj": {
+                "projectPath": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Entity\\Mnro.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Service\\Mnro.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Service\\Mnro.Service.csproj",
+        "projectName": "Mnro.Service",
+        "projectPath": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Service\\Mnro.Service.csproj",
+        "packagesPath": "C:\\Users\\limengxin\\.nuget\\packages\\",
+        "outputPath": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\limengxin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Entity\\Mnro.Entity.csproj": {
+                "projectPath": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Entity\\Mnro.Entity.csproj"
+              },
+              "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Interface\\Mnro.Interface.csproj": {
+                "projectPath": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Interface\\Mnro.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Web.Demo\\Mnro.Web.Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Web.Demo\\Mnro.Web.Demo.csproj",
+        "projectName": "Mnro.Web.Demo",
+        "projectPath": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Web.Demo\\Mnro.Web.Demo.csproj",
+        "packagesPath": "C:\\Users\\limengxin\\.nuget\\packages\\",
+        "outputPath": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Web.Demo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\limengxin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Entity\\Mnro.Entity.csproj": {
+                "projectPath": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Entity\\Mnro.Entity.csproj"
+              },
+              "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Interface\\Mnro.Interface.csproj": {
+                "projectPath": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Interface\\Mnro.Interface.csproj"
+              },
+              "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Service\\Mnro.Service.csproj": {
+                "projectPath": "D:\\Develop\\Mnro\\src\\MnroCore\\Mnro.Service\\Mnro.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

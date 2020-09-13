@@ -1,0 +1,12 @@
+D:\ApplictionEggs\MnroCore\Mnro.Interface\bin\Debug\netcoreapp3.1\Mnro.Interface.deps.json
+D:\ApplictionEggs\MnroCore\Mnro.Interface\bin\Debug\netcoreapp3.1\Mnro.Interface.dll
+D:\ApplictionEggs\MnroCore\Mnro.Interface\bin\Debug\netcoreapp3.1\Mnro.Interface.pdb
+D:\ApplictionEggs\MnroCore\Mnro.Interface\bin\Debug\netcoreapp3.1\Mnro.Entity.dll
+D:\ApplictionEggs\MnroCore\Mnro.Interface\bin\Debug\netcoreapp3.1\Mnro.Entity.pdb
+D:\ApplictionEggs\MnroCore\Mnro.Interface\obj\Debug\netcoreapp3.1\Mnro.Interface.csprojAssemblyReference.cache
+D:\ApplictionEggs\MnroCore\Mnro.Interface\obj\Debug\netcoreapp3.1\Mnro.Interface.csproj.CoreCompileInputs.cache
+D:\ApplictionEggs\MnroCore\Mnro.Interface\obj\Debug\netcoreapp3.1\Mnro.Interface.AssemblyInfoInputs.cache
+D:\ApplictionEggs\MnroCore\Mnro.Interface\obj\Debug\netcoreapp3.1\Mnro.Interface.AssemblyInfo.cs
+D:\ApplictionEggs\MnroCore\Mnro.Interface\obj\Debug\netcoreapp3.1\Mnro.Interface.csproj.CopyComplete
+D:\ApplictionEggs\MnroCore\Mnro.Interface\obj\Debug\netcoreapp3.1\Mnro.Interface.dll
+D:\ApplictionEggs\MnroCore\Mnro.Interface\obj\Debug\netcoreapp3.1\Mnro.Interface.pdb
