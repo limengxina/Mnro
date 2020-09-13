@@ -1,1 +1,1 @@
-### ef core ∂¡–¥∑÷¿Îdemo
+### ef core read write separation demo
